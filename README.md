@@ -1,2 +1,2 @@
 # snake-project-2
-first snake project 
+un scuffed snake project 
